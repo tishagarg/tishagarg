@@ -28,14 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tishagarg&show_icons=true&locale=en" alt="tishagarg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tishagarg&" alt="tishagarg" /></p>
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head>
-		<title>403 - Forbidden</title>
-	</head>
-	<body>
-		<h1>403 - Forbidden</h1>
-	</body>
-</html>
